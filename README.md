@@ -1,4 +1,4 @@
 # hello-world
 Fun projects
 
-I will do many fun projects, this summer and beyond.
+Collection of DSA projects. Annotations within code notebook explain each investigation.
